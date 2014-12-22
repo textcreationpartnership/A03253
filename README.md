@@ -36,8 +36,18 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A true discourse of the two infamous upstart prophets, Richard Farnham weaver of White-Chappell, and
+
+1. To the Reader.
+
 #####Body#####
+
+1. A TRUE RELATION of the Examination of John Bull, and Richard Farnbam his Companion, of the Opinions which they now hold, with their ignorance and superstition confuted.
+
+    _ The Examination of Richard Farnham Weaver, taken April the 16. 1636.
+
+    _ The Examination of John Bull Weaver, taken at the same time.
+
+    _ After divers visitations, by sundry Divines and men of quality; this Richard Farnham understood by some of them, that it was reported of him that hee was Christ: for the better clearing of that Aspersion laid on him, and some others in that kinde: he hath given out these lines, which you may read, that hee writ very late himselfe in Prison.
 
 **Types of content**
 
